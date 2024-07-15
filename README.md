@@ -5,11 +5,27 @@
 </p>
 
 
+## Organization of the repository
+
+This Matlab code repository supplements the work of [Larry Kotlikoff](https://kotlikoff.net/), [Felix Kuebler](https://sites.google.com/site/fkubler/), [Andrey Polbin](https://cepr.org/about/people/andrey-polbin), and [Simon Scheidegger](https://sites.google.com/site/simonscheidegger), titled _[Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](#citation)_ (Kotlikoff et al.; 2021, conditionally accepted at the `European Economic Review').
+
+* This repository contains three types of files:
+  1. ["Codes that reproduce the simulation results"](codes_and_data): 
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#Part 1: Codes to replication the simulation results of the article).
+
+  2. ["Code that reproduces the figures"](codes_and_data): 
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#Part 2: Codes that reproduce the figures of the article).
+
+  3. ["Code that reproduces tables"](figures_replication): Replication routines for plotting all the figures that are presented in the paper.
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md).
+  
+
+  
 ## Authors
 
 * [Larry Kotlikoff](https://kotlikoff.net/) (Boston University, and National Bureau of Economic Research)
 * [Felix Kuebler](https://sites.google.com/site/fkubler/) (University of Zuerich, Department for Banking and Finance, and Swiss Finance Institute)
-* [Andrey Polbin](https://www.iep.ru/en/person/polbin-andrey-v.html) (Russian Presidential Academy of National Economy and Public Administration, Gaidar Institute, and Bank of Russia)
+* [Andrey Polbin](https://cepr.org/about/people/andrey-polbin) (Russian Presidential Academy of National Economy and Public Administration, Gaidar Institute, and Bank of Russia)
 * [Simon Scheidegger](https://sites.google.com/site/simonscheidegger) (University of Lausanne, Department of Economics)
 
 
