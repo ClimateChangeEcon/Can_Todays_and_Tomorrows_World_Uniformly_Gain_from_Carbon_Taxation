@@ -81,9 +81,9 @@ The following MATLAB scripts replicate the figures in the article that are based
 
 The following MATLAB scripts replicate the figures in the article that are based in numerical calculations.
 
-    * Table 5: run the script [MakeTable5.m](MakeTable5.m)
-    * Table 6: run the script [MakeTable6.m](MakeTable6.m)
-    * Table 7: run the script [MakeTable7.m](MakeTable7.m)
-    * Tables 9 and 10: run the script [MakeTable9and10.m](MakeTable9and10.m)
+- Table 5: run the script [MakeTable5.m](MakeTable5.m)
+- Table 6: run the script [MakeTable6.m](MakeTable6.m)
+- Table 7: run the script [MakeTable7.m](MakeTable7.m)
+- Tables 9 and 10: run the script [MakeTable9and10.m](MakeTable9and10.m)
 
 Furthermore, note that tables 1-4, and 8 contain region definitions and calibration data used, and are publicly available.
