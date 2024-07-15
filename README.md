@@ -7,19 +7,18 @@
 
 ## Organization of the repository
 
-This Matlab code repository supplements the work of [Larry Kotlikoff](https://kotlikoff.net/), [Felix Kuebler](https://sites.google.com/site/fkubler/), [Andrey Polbin](https://cepr.org/about/people/andrey-polbin), and [Simon Scheidegger](https://sites.google.com/site/simonscheidegger), titled _[Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](#citation)_ (Kotlikoff et al.; 2021, conditionally accepted at the `European Economic Review').
+This code is mainly based on MATLAB (and a bit on Python 3.x) and supplements the work of [Larry Kotlikoff](https://kotlikoff.net/), [Felix Kuebler](https://sites.google.com/site/fkubler/), [Andrey Polbin](https://cepr.org/about/people/andrey-polbin), and [Simon Scheidegger](https://sites.google.com/site/simonscheidegger), titled _[Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](#citation)_ (Kotlikoff et al.; 2024, conditionally accepted at the `European Economic Review').
 
 * This repository contains three types of files:
-  1. ["Codes that reproduce the simulation results"](codes_and_data): 
+  1. ["Codes that reproduce the simulation results"](codes_and_data): Replication routines for the numerical results in the article.
       - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#part-1-codes-to-replication-the-simulation-results-of-the-article).
 
-  2. ["Code that reproduces the figures"](codes_and_data): 
-      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#Part 2: Codes that reproduce the figures of the article).
+  2. ["Codes that reproduce the figures"](codes_and_data): Replication routines for creating all the figures that display simulation-based results.
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#part-2-codes-that-reproduce-the-figures-of-the-article).
 
-  3. ["Code that reproduces tables"](figures_replication): Replication routines for plotting all the figures that are presented in the paper.
-      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md).
+  3. ["Codes that reproduce the tables"](figures_replication): Replication routines for creating all the tables that report simulation-based results.
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#part-3-code-that-produces-tables).
   
-
   
 ## Authors
 
