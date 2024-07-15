@@ -57,11 +57,11 @@ Running `mainBAU.m' in MATLAB will calclate the BAU transition path with differe
     
 # Part 2: Codes that reproduce the figures of the article
 
-The following MATLAB scripts replicate the figures in the article that are based in numerical calculations.
+The following MATLAB scripts and Excel spreadsheets replicate the figures in the article that are based in numerical calculations.
 
-- Figure 1 – Simon
+- Figure 1: illustration of Table 1.
 - Figure 2: run the script [PlotFigure2.m](PlotFigure2.m) 
-- Figure 3: – Simon
+- Figure 3: open the [PlotFigure3.xlsx](PlotFigure3.xlsx) that collects the various emission time series. The vertical column A reports the year, column B the DICE 2016 emissions , column C our model's emissions, and columns K, L, M, N the various RCP emission scenarios (all in units [GtCO2]).
 - Figure 4: run the script [PlotFigure4.m](PlotFigure4.m)
 - Figure 5: run the script [PlotFigure5.m](PlotFigure5.m)
 - Figure 6: run the script [PlotFigure6.m](PlotFigure6.m)
