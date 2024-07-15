@@ -11,7 +11,7 @@ This Matlab code repository supplements the work of [Larry Kotlikoff](https://ko
 
 * This repository contains three types of files:
   1. ["Codes that reproduce the simulation results"](codes_and_data): 
-      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#Part 1: Codes to replication the simulation results of the article).
+      - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#part-1-codes-to-replication-the-simulation-results-of-the-article).
 
   2. ["Code that reproduces the figures"](codes_and_data): 
       - Its content and usage are detailed in the corresponding [README](codes_and_data/README.md#Part 2: Codes that reproduce the figures of the article).
