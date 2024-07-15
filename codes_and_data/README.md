@@ -59,22 +59,22 @@ Running `mainBAU.m' in MATLAB will calclate the BAU transition path with differe
 
 The following MATLAB scripts replicate the figures in the article that are based in numerical calculations.
 
-    * Figure 1 – Simon
-    * Figure 2: run the script [PlotFigure2.m](PlotFigure2.m) 
-    * Figure 3: – Simon
-    * Figure 4: run the script [PlotFigure4.m](PlotFigure4.m)
-    * Figure 5: run the script [PlotFigure5.m](PlotFigure5.m)
-    * Figure 6: run the script [PlotFigure6.m](PlotFigure6.m)
-    * Figure 7: run the script [PlotFigure7.m](PlotFigure7.m)
-    * Figure 8: run the script [PlotFigure8.m](PlotFigure8.m)
-    * Figure 9: run the script [PlotFigure9.m](PlotFigure9.m)
-    * Figure 10: run the script [PlotFigure10.m](PlotFigure10.m)
-    * Figure 11: run the script [PlotFigure11.m](PlotFigure11.m)
-    * Figure 12: run the script [PlotFigure12.m](PlotFigure12.m)
-    * Figure 13: run the script [PlotFigure13.m](PlotFigure13.m)
-    * Figure 14: run the script [PlotFigure14.m](PlotFigure14.m)
-    * Figure 15: run the script [PlotFigure15.m](PlotFigure15.m)
-    * Figure 16: run the script [PlotFigure16.m](PlotFigure16.m)
+- Figure 1 – Simon
+- Figure 2: run the script [PlotFigure2.m](PlotFigure2.m) 
+- Figure 3: – Simon
+- Figure 4: run the script [PlotFigure4.m](PlotFigure4.m)
+- Figure 5: run the script [PlotFigure5.m](PlotFigure5.m)
+- Figure 6: run the script [PlotFigure6.m](PlotFigure6.m)
+- Figure 7: run the script [PlotFigure7.m](PlotFigure7.m)
+- Figure 8: run the script [PlotFigure8.m](PlotFigure8.m)
+- Figure 9: run the script [PlotFigure9.m](PlotFigure9.m)
+- Figure 10: run the script [PlotFigure10.m](PlotFigure10.m)
+- Figure 11: run the script [PlotFigure11.m](PlotFigure11.m)
+- Figure 12: run the script [PlotFigure12.m](PlotFigure12.m)
+- Figure 13: run the script [PlotFigure13.m](PlotFigure13.m)
+- Figure 14: run the script [PlotFigure14.m](PlotFigure14.m)
+- Figure 15: run the script [PlotFigure15.m](PlotFigure15.m)
+- Figure 16: run the script [PlotFigure16.m](PlotFigure16.m)
 
 
 # Part 3. Code that produces tables
