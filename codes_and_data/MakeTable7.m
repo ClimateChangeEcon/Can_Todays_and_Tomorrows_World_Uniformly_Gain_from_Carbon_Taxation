@@ -1,0 +1,2 @@
+load UWI6x.mat;
+datafortable=[Yb(1,:)'./sum(Yb(1,:)) Y(1,:)'./sum(Y(1,:)) Yb(34,:)'./sum(Yb(34,:)) Y(34,:)'./sum(Y(34,:)) Yb(84,:)'./sum(Yb(84,:)) Y(84,:)'./sum(Y(84,:)) Yb(134,:)'./sum(Yb(134,:)) Y(134,:)'./sum(Y(134,:))]*100

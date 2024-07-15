@@ -1,0 +1,21 @@
+clear all;
+load BAU6x.mat
+tt=1:300;
+h=plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'k--','linewidth',3); grid on; hold on;
+load UWI6x.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'r--','linewidth',2); grid on; hold on;
+load Policy6x100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'k-','MarkerSize',3); grid on; hold on;
+load 6xcoalition4100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'c-.','linewidth',2); grid on; hold on;
+load 6xcoalition5100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'g+-','MarkerSize',3); grid on; hold on;
+load 6xcoalition6100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'b:','linewidth',2); grid on; hold on;
+load 6xcoalition7100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'m*-','MarkerSize',3); grid on; hold on;
+load 6xcoalition3100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'ys-','MarkerSize',3); grid on; hold on;
+load 6xcoalition8100_1015.mat;
+plot(sum((OR(1:300,:)/OiltoBTU+GR(1:300,:)/GastoBTU+CR(1:300,:)/CoaltoBTU)'),'r-','linewidth',2); grid on; hold on;
+legend('BAU', 'Optimal global UWI policy','100$ global tax','100$ tax for USA+WEU and GBR+JSHK+CHI', '100$ tax for USA', '100$ tax for JSHK','100$ tax for WEU and GBR','100$ tax for CHI','100$ tax for all regions apart from CHI', 'Orientation','vertical','Location','best');
