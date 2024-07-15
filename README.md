@@ -7,7 +7,7 @@
 
 ## Organization of the repository
 
-This code is mainly based on MATLAB (and a bit on Python 3.x) and supplements the work of [Larry Kotlikoff](https://kotlikoff.net/), [Felix Kuebler](https://sites.google.com/site/fkubler/), [Andrey Polbin](https://cepr.org/about/people/andrey-polbin), and [Simon Scheidegger](https://sites.google.com/site/simonscheidegger), titled _[Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](#citation)_ (Kotlikoff et al.; 2024, conditionally accepted at the `European Economic Review').
+This repository is mainly based on MATLAB (and a bit on Python 3.x) and supplements the work of [Larry Kotlikoff](https://kotlikoff.net/), [Felix Kuebler](https://sites.google.com/site/fkubler/), [Andrey Polbin](https://cepr.org/about/people/andrey-polbin), and [Simon Scheidegger](https://sites.google.com/site/simonscheidegger), titled _[Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](#citation)_ (Kotlikoff et al.; 2024, conditionally accepted at the `European Economic Review').
 
 * This repository contains three types of files:
   1. ["Codes that reproduce the simulation results"](codes_and_data): Replication routines for the numerical results in the article.
