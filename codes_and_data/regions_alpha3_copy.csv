@@ -1,0 +1,249 @@
+COUNTRY;NEWCOUNTRYID;ALPHA_3;REG
+Canada;124;CAN;CND
+Greenland;304;GRL;POL
+Russia;643;RUS;RUS
+Svalbard;744;SJM;POL
+Jan Mayen;744;SJM;ISL
+United States;840;USA;USA
+Norway;578;NOR;WEU
+Finland;246;FIN;WEU
+Sweden;752;SWE;WEU
+Iceland;352;ISL;WEU
+Faroe Is.;234;FRO;WEU
+United Kingdom;826;GBR;GBR
+Estonia;233;EST;WEU
+Latvia;428;LVA;WEU
+Denmark;208;DNK;WEU
+Lithuania;440;LTU;WEU
+Belarus;112;BLR;EEU
+Ireland;372;IRL;WEU
+Germany;276;DEU;WEU
+Kazakhstan;398;KAZ;SOV
+Isle of Man;833;IMN;WEU
+Poland;616;POL;WEU
+Netherlands;528;NLD;WEU
+China;156;CHN;CHI
+Ukraine;804;UKR;EEU
+Mongolia;496;MNG;SOV
+France;250;FRA;WEU
+Belgium;56;BEL;WEU
+Czech Republic;203;CZE;WEU
+Luxembourg;442;LUX;WEU
+Bailiwick of Guernsey;831;GGY;WEU
+Bailiwick of Jersey;832;JEY;WEU
+Austria;40;AUT;WEU
+Slovakia;703;SVK;WEU
+Hungary;348;HUN;WEU
+Romania;642;ROU;WEU
+Moldova;498;MDA;EEU
+St. Pierre & Miquelon;666;SPM;ISL
+Switzerland;756;CHE;WEU
+Liechtenstein;438;LIE;WEU
+Italy;380;ITA;WEU
+Slovenia;705;SVN;WEU
+Croatia;191;HRV;WEU
+Serbia and Montenegro;688;SRB;EEU
+Bosnia&Herzegovina;70;BIH;EEU
+Uzbekistan;860;UZB;SOV
+Japan;392;JPN;JSHK
+Bulgaria;100;BGR;WEU
+Spain;724;ESP;WEU
+Monaco;492;MCO;WEU
+San Marino;674;SMR;WEU
+Georgia;268;GEO;SOV
+Kyrgyztan;417;KGZ;SOV
+Portugal;620;PRT;WEU
+Andorra;20;AND;WEU
+Albania;8;ALB;EEU
+Macedonia;807;MKD;EEU
+Turkey;792;TUR;MENA
+Turkmenistan;795;TKM;SOV
+North Korea;408;PRK;NK
+Vatican City;336;VAT;WEU
+Greece;300;GRC;WEU
+Armenia;51;ARM;SOV
+Azerbaijan;31;AZE;SOV
+Tajikistan;762;TJK;SOV
+Iran;364;IRN;MENA
+Afghanistan;4;AFG;MENA
+South Korea;410;KOR;JSHK
+Algeria;12;DZA;MENA
+Tunisia;788;TUN;MENA
+Syria;760;SYR;MENA
+Iraq;368;IRQ;MENA
+Gibraltar;292;GIB;WEU
+Malta;470;MLT;WEU
+Pakistan;586;PAK;MENA
+Morocco;504;MAR;MENA
+Cyprus;196;CYP;WEU
+India;356;IND;IND
+Lebanon;422;LBN;MENA
+Libya;434;LBY;MENA
+Israel;376;ISR;WEU
+Jordan;400;JOR;MENA
+Mexico;484;MEX;MEX
+Bermuda;60;BMU;ISL
+West Bank and Gaza;275;PSE;MENA
+Saudi Arabia;682;SAU;MENA
+Egypt;818;EGY;MENA
+Kuwait;414;KWT;MENA
+Nepal;524;NPL;SAP
+Midway Is.;581;UMI;ISL
+Wake I.;581;UMI;ISL
+Johnston Atoll;581;UMI;ISL
+Baker and Howland Island;581;UMI;ISL
+Jarvis I.;581;UMI;ISL
+Bhutan;64;BTN;SAP
+Myanmar;104;MMR;SAP
+Bahamas;44;BHS;SLA
+Mauritania;478;MRT;MENA
+Bahrain;48;BHR;MENA
+Qatar;634;QAT;MENA
+Oman;512;OMN;MENA
+United Arab Emirates;784;ARE;MENA
+Bangladesh;50;BGD;SAP
+Taiwan;901;;JSHK
+Mali;466;MLI;MENA
+Cuba;192;CUB;SLA
+Niger;562;NER;SSA
+Chad;148;TCD;MENA
+Sudan;736;;SSA
+Vietnam;704;VNM;SAP
+Laos;418;LAO;SAP
+Hong Kong;344;HKG;JSHK
+Macau;446;MAC;JSHK
+Turks & Caicos Is.;796;TCA;ISL
+Haiti;332;HTI;SLA
+Thailand;764;THA;SAP
+Northern Mariana Is.;580;MNP;ISL
+Cayman Is.;136;CYM;ISL
+Dominican Republic;214;DOM;SLA
+Philippines;608;PHL;SAP
+Belize;84;BLZ;SLA
+Jamaica;388;JAM;SLA
+Puerto Rico;630;PRI;SLA
+Virgin Is.;850;VIR;ISL
+British Virgin Is.;92;VGB;ISL
+Anguilla;660;AIA;ISL
+Guadeloupe;312;GLP;ISL
+Netherlands Antilles;530;;ISL
+Yemen;887;YEM;MENA
+Guatemala;320;GTM;SLA
+St. Kitts and Nevis;659;KNA;ISL
+Antigua and Barbuda;28;ATG;SLA
+Cape Verde;132;CPV;MENA
+Eritrea;232;ERI;SSA
+Honduras;340;HND;SLA
+Montserrat;500;MSR;ISL
+Senegal;686;SEN;SSA
+Nicaragua;558;NIC;SLA
+Dominica;212;DMA;ISL
+Burkina Faso;854;BFA;SSA
+El Salvador;222;SLV;SLA
+St. Lucia;662;LCA;SLA
+Martinique;474;MTQ;ISL
+Ethiopia;231;ETH;MENA
+Cambodia;116;KHM;SAP
+Marshall Islands;584;MHL;ISL
+St. Vincent and the Grenadines;670;VCT;SLA
+Barbados;52;BRB;SLA
+Gambia;270;GMB;SSA
+Nigeria;566;NGA;SSA
+Cameroon;120;CMR;SSA
+Guam;316;GUM;ISL
+Colombia;170;COL;SLA
+Venezuela;862;VEN;SLA
+Aruba;533;ABW;SLA
+Grenada;308;GRD;SLA
+Guinea Bissau;624;GNB;SSA
+Guinea;324;GIN;SSA
+Benin;204;BEN;SSA
+Djibouti;262;DJI;MENA
+Costa Rica;188;CRI;SLA
+Trinidad and Tobago;780;TTO;SLA
+Ghana;288;GHA;SSA
+Togo;768;TGO;SSA
+Central African Republic;140;CAF;SSA
+Somalia;706;SOM;MENA
+Cote d'Ivoire;384;CIV;SSA
+Federated State of Micronesia;583;FSM;ISL
+Panama;591;PAN;SLA
+Sierra Leone;694;SLE;SSA
+Sri Lanka;144;LKA;SAP
+Guyana;328;GUY;SLA
+Liberia;430;LBR;SSA
+Palau;585;PLW;ISL
+Maldives;462;MDV;ISL
+Suriname;740;SUR;SLA
+Malaysia;458;MYS;SAP
+Brazil;76;BRA;BRA
+French Guiana;254;GUF;SLA
+Democratic Republic of Congo;180;COD;SSA
+Indonesia;360;IDN;SAP
+Brunei;96;BRN;SAP
+Kiribati;296;KIR;ISL
+Uganda;800;UGA;SSA
+Kenya;404;KEN;SSA
+Equatorial Guinea;226;GNQ;SSA
+Congo;178;COG;SSA
+Gabon;266;GAB;SSA
+Ecuador;218;ECU;SLA
+Sao Tome and Principe;678;STP;SLA
+Singapore;702;SGP;JSHK
+Peru;604;PER;SLA
+Tanzania;834;TZA;SSA
+Nauru;520;NRU;ISL
+Rwanda;646;RWA;SSA
+Papua New Guinea;598;PNG;SAP
+Burundi;108;BDI;SSA
+Angola;24;AGO;SSA
+Seychelles;690;SYC;ISL
+Solomon Islands;90;SLB;ISL
+Tuvalu;798;TUV;ISL
+French Polynesia;258;PYF;ISL
+Saint Helena;654;SHN;ISL
+British Indian Ocean Territory;86;IOT;ISL
+Tokelau;772;TKL;ISL
+Zambia;894;ZMB;SSA
+Timor Leste;626;TLS;SAP
+Bolivia;68;BOL;SLA
+Malawi;454;MWI;SSA
+Cook Is.;184;COK;ISL
+Mozambique;508;MOZ;SSA
+Christmas I.;162;CXR;ISL
+Australia;36;AUS;ANZ
+American Samoa;16;ASM;ISL
+Comoros;174;COM;ISL
+Madagascar;450;MDG;SSA
+Mayotte;175;MYT;ISL
+Cocos Is.;166;CCK;ISL
+Fiji;242;FJI;ISL
+Wallis and Futuna;876;WLF;ISL
+Samoa;882;WSM;ISL
+Vanuatu;548;VUT;ISL
+Tonga;776;TON;SSA
+Zimbabwe;716;ZWE;SSA
+Namibia;516;NAM;SSA
+Chile;152;CHL;SLA
+Botswana;72;BWA;SSA
+Niue;570;NIU;ISL
+Paraguay;600;PRY;SLA
+Mauritius;480;MUS;ISL
+New Caledonia;540;NCL;ISL
+Reunion;638;REU;ISL
+Argentina;32;ARG;SLA
+South Africa;710;ZAF;SAF
+Pitcairn Is.;612;PCN;ISL
+Swaziland;748;SWZ;SSA
+Lesotho;426;LSO;SSA
+Norfolk I.;574;NFK;ISL
+Uruguay;858;URY;SLA
+New Zealand;554;NZL;ANZ
+French Southern & Antarctic Lands;260;ATF;ISL
+Falkland Is.;238;FLK;ISL
+Heard I. & McDonald Is.;334;HMD;ISL
+South Georgia & the South Sandwich Is.;239;SGS;ISL
+Bouvet I.;74;BVT;ISL
+Antarctica;10;ATA;POL
+Sudan;;SDN;MENA
+South Sudan;;SSD;MENA
