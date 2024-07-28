@@ -30,7 +30,7 @@ This repository is mainly based on MATLAB (and a bit on Python 3.x) and suppleme
 
 ## Citation
 
-Please cite [Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](https://www.nber.org/papers/w29224)
+Please cite [Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Taxation?](https://www.sciencedirect.com/science/article/pii/S001429212400148X)
 in your publications if it helps your research:
 
 ```
