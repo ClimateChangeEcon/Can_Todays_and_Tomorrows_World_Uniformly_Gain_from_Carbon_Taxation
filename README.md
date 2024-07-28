@@ -34,20 +34,18 @@ Please cite [Can Today’s and Tomorrow’s World Uniformly Gain from Carbon Tax
 in your publications if it helps your research:
 
 ```
-@techreport{NBERw29224,
- title = "Can Today's and Tomorrow's World Uniformly Gain from Carbon Taxation?",
- author = "Kotlikoff, Laurence J and Kubler, Felix and Polbin, Andrey and Scheidegger, Simon",
- institution = "National Bureau of Economic Research",
- type = "Working Paper",
- series = "Working Paper Series",
- number = "29224",
- year = "2021",
- month = "September",
- doi = {10.3386/w29224},
- URL = "http://www.nber.org/papers/w29224",
- abstract = {Climate change will impact current and future generations in different regions very differently. This paper develops the first large-scale, annually calibrated, multi-region, overlapping generations model of climate change and carbon policy. It features region-specific temperature and damage functions with the phased impact of emissions on global and regional temperature calibrated to the latest scientific evidence. Absent policy, climate change may, under high-damage scenarios, dramatically reduce GDP in most regions, with India, Brazil, and the South Asian Pacific suffering long-term catastrophic damages. Carbon taxation, coupled with region- and generation-specific transfers, can both correct the carbon externality and raise the welfare of all current and future agents across all regions by 4.3 percent. The impact on the use and duration of fossil fuels is dramatic as is the reduction in the path of global emissions. However, achieving completely uniform welfare gains leaves future generations in particular regions facing exceptionally high compensatory payments. Fortunately, a carbon tax-cum redistribution policy that limits this burden for any generation in any region to less than 10 percent, measured on a consumption-equivalent basis, can deliver a 4.0 percent or higher welfare gain for all peoplekind – present and future. However, carbon taxes set through time, at carbon’s marginal social cost, do far too little to mitigate climate change unless all major emitters, particularly China, adopt them and do so immediately.},
+article{KOTLIKOFF2024104819,
+title = {Can today’s and tomorrow’s world uniformly gain from carbon taxation?},
+journal = {European Economic Review},
+pages = {104819},
+year = {2024},
+issn = {0014-2921},
+doi = {https://doi.org/10.1016/j.euroecorev.2024.104819},
+url = {https://www.sciencedirect.com/science/article/pii/S001429212400148X},
+author = {Laurence Kotlikoff and Felix Kubler and Andrey Polbin and Simon Scheidegger},
+keywords = {Climate change, Carbon taxes, Environmental policy, Clean energy, Externalities, Generational equity, Economic efficiency, Pareto optimality},
+abstract = {Climate change will impact current and future generations in different regions very differently. This paper develops the first large-scale, annually calibrated, multi-region, overlapping generations model of climate change and carbon policy. It features region-specific temperature and damage functions with the phased impact of emissions on global and regional temperature calibrated to the latest scientific evidence. Absent policy, climate change may, under high-damage scenarios, dramatically reduce GDP in most regions, with India, Brazil, and the South Asian Pacific suffering long-term catastrophic damages. Carbon taxation, coupled with region- and generation-specific transfers, can both correct the carbon externality and raise the welfare of all current and future agents across all regions by 4.3 percent. The impact on the use and duration of fossil fuels is dramatic as is the reduction in the path of global emissions. However, achieving completely uniform welfare gains leaves future generations in particular regions facing exceptionally high compensatory payments. Fortunately, a carbon tax-cum redistribution policy that limits this burden for any generation in any region to less than 10 percent, measured on a consumption-equivalent basis, can deliver a 4.0 percent or higher welfare gain for all peoplekind – present and future. However, carbon taxes set through time, at carbon’s marginal social cost, do far too little to mitigate climate change unless all major emitters, particularly China, adopt them and do so immediately.}
 }
-
 ```
 
 
